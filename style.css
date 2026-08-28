@@ -1,0 +1,114 @@
+body{
+    background-color:#0f1432
+}
+
+header{
+    text-align: center;
+    margin:0px;
+    padding: 0px;
+    border: solid 1px black;
+    border-radius: 10px;
+    background-color:#000000;
+
+}
+
+.cabeca{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffaa00;
+    text-decoration: underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+
+}
+
+.P{
+    text-align: center;
+    margin:0;
+    padding: 0%;
+    border: solid 1px black;
+    background-color: #ffaa00;
+    
+
+}
+
+.food1{
+    border: solid 5px #ff001e;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.food2{
+    border: solid 5px #ff001e;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.food3{
+    border: solid 5px #ff001e;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.container{
+    display: flex; 
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.container2{
+    display: flex; 
+    justify-content: center;
+    justify-content: space-between;
+}
+
+
+.food4{
+    border: solid 5px #ff001e;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.food5{
+    border: solid 5px #ff001e;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.food6{
+    border: solid 5px #ff001e;
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+    margin:0;
+    padding: 0%;
+    border: solid 1px black;
+    background-color: #ffaa00;
+    border-radius: 10px;
+}
+
+.links{
+    text-align: center;
+    margin:0px;
+    padding: 1px;
+    background-color: #ffaa00;
+    border-radius: 10px;
+}
+
+.P2{
+    text-align: left;
+}
+
